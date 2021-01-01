@@ -1,0 +1,220 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/work/work/New folder
+vbaud_gen1
+Z0 !s110 1585581061
+!i10b 1
+!s100 _3=3d]7IEB^H>=KC56[cm1
+I6?]QD4B0Rg=fe5aR2UnSk2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/hP/Desktop/uart
+Z3 w1585581059
+Z4 8C:/Users/hP/Desktop/uart/uart.v
+Z5 FC:/Users/hP/Desktop/uart/uart.v
+L0 202
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1585581060.000000
+Z8 !s107 C:/Users/hP/Desktop/uart/uart.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hP/Desktop/uart/uart.v|
+!s101 -O0
+!i113 1
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vframe_gen1
+Z11 !s110 1585581060
+!i10b 1
+!s100 @kh56SnOzob>W75KIcbO`0
+Ih`HW1[Lo6MLV^67LRnjZU3
+R1
+R2
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vparity_gen1
+R11
+!i10b 1
+!s100 hkhchMQU3n=N>R<TFlLP81
+I1GQa1Q2gD:[U3f31Q]4;92
+R1
+R2
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vshift_reg1
+R0
+!i10b 1
+!s100 C_<]<^D6EB2PWcia0l3`S3
+IDHkX4eGdaQaFK2B:B[A9R2
+R1
+R2
+R3
+R4
+R5
+L0 296
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vtb_baud_gen1
+R0
+!i10b 1
+!s100 E7cThXoILjF@MEYQd00>O3
+I[6ezXN]>NaKRHC:gVFL5D2
+R1
+R2
+R3
+R4
+R5
+L0 267
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vtb_frame
+R0
+!i10b 1
+!s100 o5k^1bhTJLBCdRFOg1[Qa1
+IcJIF;02lS`228S3Toe4Y70
+R1
+R2
+R3
+R4
+R5
+L0 178
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vtb_parity
+R11
+!i10b 1
+!s100 9OY5=61ad7H>j;V=RC;Oa3
+If0?A1MSk4GT=eZ4=Nz><92
+R1
+R2
+R3
+R4
+R5
+L0 155
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vtb_shift_reg1
+R0
+!i10b 1
+!s100 n1NhI^ZJ<?n]jAlH@CV0=2
+I10=6=20m@DmOGZRlPj=?>0
+R1
+R2
+R3
+R4
+R5
+L0 465
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vtb_uart
+R0
+!i10b 1
+!s100 H7^2GQQ3SgHF26>Qci_bi2
+IiPRcSVjk5Ezb2;hM@P20P1
+R1
+R2
+R3
+R4
+R5
+L0 520
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vuart_tx
+R0
+!i10b 1
+!s100 >4TE[1@Zcj92G1MoSE:oo0
+IPklV:V6hBMU_7JnBin[QH1
+R1
+R2
+R3
+R4
+R5
+L0 498
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10

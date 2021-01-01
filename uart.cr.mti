@@ -1,0 +1,21 @@
+C:/Users/hP/Desktop/uart/uart.v {1 {vlog -work work -stats=none C:/Users/hP/Desktop/uart/uart.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module parity_gen1
+-- Compiling module frame_gen1
+-- Compiling module tb_parity
+-- Compiling module tb_frame
+-- Compiling module baud_gen1
+-- Compiling module tb_baud_gen1
+-- Compiling module shift_reg1
+-- Compiling module tb_shift_reg1
+-- Compiling module uart_tx
+-- Compiling module tb_uart
+
+Top level modules:
+	tb_parity
+	tb_frame
+	tb_baud_gen1
+	tb_shift_reg1
+	tb_uart
+
+} {} {}}
